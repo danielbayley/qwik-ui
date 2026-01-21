@@ -146,7 +146,7 @@
     "vite-plugin-static-copy": "1.0.4",
     "vite-tsconfig-paths": "4.3.2",
     "vitest": "^1.6.0",
-    "wrangler": "^3.57.1",
+    "wrangler": "^3.114.17",
     "yargs": "^17.7.2"
   },
   "config": {
